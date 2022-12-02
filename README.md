@@ -18,3 +18,6 @@ Server Side Repo:
 
 
 ### ⚫ This website most challenging part was backend (express, mongoDb ) work.
+
+
+### ⚫ This website is friendly single page website for every kind of People .
