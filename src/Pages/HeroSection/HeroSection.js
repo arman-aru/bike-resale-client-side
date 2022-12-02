@@ -14,7 +14,7 @@ const HeroSection = () => {
         <div>
           <h2 className="text-white text-4xl font-bold">Yamaha R15 V3 Indo Version</h2>
           <br />
-          <p className="text-white">50+km Milage/Liter</p>
+          <p className="text-white">50+km Milage/Ltr</p>
           <br />
           <div className="md:flex gap-10 mt-8">
             <div className="border rounded-lg border-slate-400 px-20 py-12 flex justify-center mt-1 items-center w-24 h-16">
