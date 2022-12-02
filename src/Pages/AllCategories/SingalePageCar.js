@@ -45,7 +45,7 @@ const SingalePageCar = ({ car, setSelectCar }) => {
                   <br />
                   Category: {category} <br />
                   Mileage: {mileage} km <br />
-                  PickUp Location: {location}
+                  Pick-Up Location: {location}
                   <div className="font-thin text-lg font-semibold  ">
                     Original Price: ৳
                     <span className="line-through"> {price}</span>{" "}
